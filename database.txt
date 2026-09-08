@@ -1,0 +1,69 @@
+based 1
+file2.txt 1
+#
+data 2
+file2.txt 1
+file1.txt 1
+#
+database 1
+file4.txt 1
+#
+experience 1
+file2.txt 1
+#
+file 3
+file3.txt 1
+file2.txt 1
+file1.txt 1
+#
+Hello 2
+file3.txt 1
+file1.txt 1
+#
+hello 1
+file2.txt 1
+#
+helps 1
+file2.txt 1
+#
+hands 1
+file2.txt 1
+#
+is 3
+file3.txt 1
+file2.txt 1
+file1.txt 1
+#
+inverted 1
+file2.txt 1
+#
+in 1
+file2.txt 1
+#
+my 1
+file1.txt 1
+#
+on 1
+file2.txt 2
+#
+project 2
+file2.txt 1
+file1.txt 1
+#
+structures 1
+file1.txt 1
+#
+search 1
+file2.txt 1
+#
+strcutures 1
+file2.txt 1
+#
+this 3
+file3.txt 1
+file2.txt 1
+file1.txt 1
+#
+update 1
+file4.txt 1
+#
